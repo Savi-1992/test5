@@ -10,6 +10,8 @@ public class Test5Application {
 		
 		Spring name ="Mike";
 		int x=10;
+		int y=20;
+		boolean isPresent =false;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
